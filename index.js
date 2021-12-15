@@ -1,0 +1,3 @@
+function carregamentoPagina(){
+    alert("Abriu!");
+}
